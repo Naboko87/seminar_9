@@ -1,0 +1,15 @@
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/bin/Debug/net6.0/ex_68
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/bin/Debug/net6.0/ex_68.deps.json
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/bin/Debug/net6.0/ex_68.runtimeconfig.json
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/bin/Debug/net6.0/ex_68.dll
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/bin/Debug/net6.0/ref/ex_68.dll
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/bin/Debug/net6.0/ex_68.pdb
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.csproj.AssemblyReference.cache
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.AssemblyInfoInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.AssemblyInfo.cs
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.csproj.CoreCompileInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.dll
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ref/ex_68.dll
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.pdb
+/Users/kseniya/Desktop/Learning/seminar_9/ex_68/obj/Debug/net6.0/ex_68.genruntimeconfig.cache
